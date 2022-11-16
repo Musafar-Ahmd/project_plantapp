@@ -24,7 +24,7 @@ class _CartPageState extends State<CartPage> {
           children: [
             SizedBox(
               height: 100,
-              child: Image.asset('assets/images/shopping-cart.png'),
+              child: Image.asset('assets/images/cart.png'),
             ),
             const SizedBox(
               height: 10,

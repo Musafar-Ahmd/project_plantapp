@@ -47,6 +47,22 @@ class Plant {
         plantId: 1,
         price: 11,
         category: 'Outdoor',
+        plantName: 'Julia',
+        size: 'Medium',
+        rating: 4.8,
+        humidity: 56,
+        temperature: '19 - 22',
+        imageURL: 'assets/images/julia.png',
+        isFavorated: false,
+        decription:
+        'This plant is one of the best plant. It grows in most of the regions in the world and can survive'
+            'even the harshest weather condition.',
+        isSelected: false),
+
+    Plant(
+        plantId: 1,
+        price: 11,
+        category: 'Outdoor',
         plantName: 'Philodendron',
         size: 'Medium',
         rating: 4.8,
